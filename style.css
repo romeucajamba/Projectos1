@@ -1,0 +1,52 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: gray;
+}
+form{
+    background-color: whitesmoke;
+    margin-right: 30rem;
+    margin-top: 8rem;
+    margin-left: 30rem;
+    border-radius: ;
+    padding: 1rem;
+    
+}
+input{
+    margin-left: 3rem;
+    margin-left: 8rem;
+    border: none;
+    width: 15em;
+    height: 3em;
+    border-radius:;
+}
+#button {
+    background-color: black;
+    margin-left: 8rem;
+    border: none;
+    width: 15em;
+    height: 3em;
+    border-radius: 3em;
+    color: white;
+
+}
+#button:hover {
+    background-color: gray;
+    
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+li {
+    background-color: whitesmoke;
+    margin-right: 30rem;
+    margin-left: 28rem;
+    padding: 1em;
+    margin-top: 2em;
+    list-style: none;
+}
